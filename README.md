@@ -99,11 +99,10 @@ hotel-bookings-tableau-dashboard/
  
 **To open it:** download the `.twbx` file and open it in [Tableau Desktop](https://www.tableau.com/products/desktop) or the free [Tableau Reader](https://www.tableau.com/products/reader). Or use the Tableau Public link above.
  
-## Team and my contribution
+## Team
  
 This was a group project (Group 27) with Tony Xie, Ananya Srinivas, Yamuna G C, Adrian Mato and Nakul Sidiginamola.
  
-**My contribution:** _TODO: e.g. designed the "Mitigate Risks" dashboard, built the lost-revenue and cancellation-rate calculated fields, and cleaned the data._
  
 ---
  
