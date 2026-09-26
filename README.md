@@ -2,7 +2,6 @@
  
 **An interactive Tableau dashboard that analyses 119,390 hotel bookings to help hotel managers grow revenue, cut cancellations and plan for peak periods.**
  
-[![Dashboard overview](images/dashboard-overview.png)](https://public.tableau.com/app/profile/yamuna.g.c/viz/DVN_HotelBookings/Dashboard1)
  
 🔗 **[Explore the live dashboard on Tableau Public](https://public.tableau.com/app/profile/yamuna.g.c/viz/DVN_HotelBookings/Dashboard1)**
  
@@ -32,7 +31,7 @@ Hotel bookings spike without warning, and more than a third of reservations are 
 | **Hotels** | Resort Hotel (Algarve) and City Hotel (Lisbon), Portugal |
 | **Fields** | lead time, arrival dates, stay length, guest mix, country, market segment, customer type, deposit type, ADR (average daily rate, €), special requests, cancellation status |
  
-See [`data/README.md`](data/README.md) for the column descriptions.
+See [`Data/README.md`](Data/README.md) for the column descriptions.
  
 ## Dashboard design
  
